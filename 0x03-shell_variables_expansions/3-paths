@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | tr "-s" ':' '\n"[D[D[D[D[C[C[D[[C["[C[C[C | wc "-l"
+echo $(('echo $PATH \ grep -o ":/" |[D[D[D[D[D[D[D[D[D[D[D[D[D[D[|[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C wc -l + 1))[D[D[D[D[D[D '+ 1))
